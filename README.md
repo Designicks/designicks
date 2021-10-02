@@ -7,7 +7,8 @@ My Skills Includes React.js, Node.js, HTML, CSS, JavaScript, JQuery, SCSS/SASS, 
 <br />
 <br />
 
-<img align="right" alt="GIF" src="https://stormotion.io/blog/content/images/2018/12/developer.gif" width="500" height="320" />
+<!-- <img align="right" alt="GIF" src="https://stormotion.io/blog/content/images/2018/12/developer.gif" width="500" height="320" /> -->
+<img align="right" alt="developer" src="https://lottiefiles.com/41504-developer-is-programming-using-notebook" width="520" height="300" > 
 
 ## Some More About Me
 
