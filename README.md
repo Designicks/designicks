@@ -8,7 +8,7 @@ My Skills Includes React.js, Node.js, HTML, CSS, JavaScript, JQuery, SCSS/SASS, 
 <br />
 
 <!-- <img align="right" alt="GIF" src="https://stormotion.io/blog/content/images/2018/12/developer.gif" width="500" height="320" /> -->
-<iframe src="https://embed.lottiefiles.com/animation/41504"></iframe>
+<img align="right" alt="Designick Nikunj Gurjar" src="https://github.com/Designicks/designicks/blob/master/developer.gif?raw=true width="530" height="320" />
 
 ## Some More About Me
 
