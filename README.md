@@ -2,13 +2,13 @@
 
 A Frontend Developer⚡, based in the glorious city Indore, India. Since 2016 I’am producing creative work with team and individuals locally and remotely. Starting with Graphics Design, I transitioned to Web Designs, and now Web/Mobile App UI development.
  
-My Skills Includes React.js, Node.js, HTML, CSS, JavaScript, JQuery, SCSS/SASS, Bootstrap, Ionic UI and I love working on JavaScript. Building amazing project using these technologies. Always Trying to master in these tools and Technologies. My hobbies are sketching, writing, exploring new UI Design trends and technologies. 
+My Skillset Includes React.js, Node.js, HTML, CSS, JavaScript, JQuery, SCSS/SASS, Bootstrap, Ionic UI and I love working on JavaScript. Building amazing project using these technologies. Always Trying to master in these tools and Technologies. My hobbies are sketching, writing, exploring new UI Design trends and technologies. 
 
 <br />
 <br />
 
 <!-- <img align="right" alt="GIF" src="https://stormotion.io/blog/content/images/2018/12/developer.gif" width="500" height="320" /> -->
-<img align="right" alt="Designick Nikunj Gurjar" src="https://github.com/Designicks/designicks/blob/master/developer.gif?raw=true" width="460" height="450" />
+<img align="right" alt="Designick Nikunj Gurjar" src="https://github.com/Designicks/designicks/blob/master/developer.gif?raw=true" width="420" height="420" />
 <!-- <img align="right" alt="Designick Nikunj Gurjar" src="https://www.mygo.ge/uploads/blog/1584023795.jpg" width="460px" height="380px" /> -->
 
 ## Some More About Me
