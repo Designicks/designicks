@@ -8,7 +8,7 @@ My Skillset Includes React.js, Node.js, HTML, CSS, JavaScript, JQuery, SCSS/SASS
 <br />
 
 <!-- <img align="right" alt="GIF" src="https://stormotion.io/blog/content/images/2018/12/developer.gif" width="500" height="320" /> -->
-<img align="right" alt="Designick Nikunj Gurjar" src="https://github.com/Designicks/designicks/blob/master/developer.gif?raw=true" width="420" height="420" style="border-radius: 26px; padding-left: 0;" />
+<img align="right" alt="Designick Nikunj Gurjar" src="https://github.com/Designicks/designicks/blob/master/developer.gif?raw=true" width="420" height="420" style="border-radius: 26px !important; padding-left: 0 !important;" />
 <!-- <img align="right" alt="Designick Nikunj Gurjar" src="https://www.mygo.ge/uploads/blog/1584023795.jpg" width="460px" height="380px" /> -->
 
 ## Some More About Me
