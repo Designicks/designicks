@@ -1,6 +1,6 @@
 # Hey There, I'm < Nikunj Gurjar >
 
-A Frontend Developer⚡, based in the glorious city Indore, India. Since 2016 I’am producing creative work with team and individuals locally and remotely. Starting with Graphics Design, I transitioned to Web Designs, and now Web/Mobile App UI development.
+A Frontend Developer⚡, based in the glorious city Indore, India. Since 2016 I’m producing creative work with team and individuals locally and remotely. Starting with Graphics Design, I transitioned to Web Designs, and now Web/Mobile App UI development.
  
 My Skillset Includes React.js, Node.js, HTML, CSS, JavaScript, JQuery, SCSS/SASS, Bootstrap, Ionic UI and I love working on JavaScript. Building amazing project using these technologies. Always Trying to master in these tools and Technologies. My hobbies are sketching, writing, exploring new UI Design trends and technologies. 
 
