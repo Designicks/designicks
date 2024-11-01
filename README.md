@@ -23,7 +23,7 @@ My interests include mountains climbing, sketching, and researching the newest U
 - 👯 I’m looking to collaborate with amazing Developers.
 - 🤔 I’m Ready for Learning, Sharing from/to no matters wheather Juniors or Seniors and taking challenging tasks.
 - 💬 I love teaching to people.
-- 📫 How to reach me: nickunj.gurjar@gmail.com OR <a href="https://designicks.github.io/designick-PRO" target="_blank">designick.in</a>
+- 📫 How to reach me: nickunj.gurjar@gmail.com OR <a href="https://designicks.github.io/designick-PRO" target="_blank">www.designick.in</a>
 - 😄 Fun facts : Many..
 
 <br />
