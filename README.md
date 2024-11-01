@@ -4,7 +4,7 @@ A Frontend Developer⚡, based in the glorious city Indore, India. Since 2018 I�
 
 fulfilled 5+ years of total IT experience, of which 4 years were spent developing high-performing presentation layers, reusable components, and performance optimization as a React JS UI developer.
 
-React, Redux, Mobx, SASS, HTML, CSS, TypeScript, JavaScript/ES6, JQuery, Bootstrap, MUI, and Ionic UI are among the skills I possess, and I enjoy working with JavaScript. utilizing these technology to build incredible projects. always aiming to become an expert with these tools and technology. 
+React, Redux, Mobx, SASS, HTML, CSS, TypeScript, JavaScript/ES6, JQuery, Bootstrap, MUI are among the skills I possess, and I enjoy working with JavaScript. utilizing these technology to build incredible projects. always aiming to become an expert with these tools and technology. 
 
 My interests include mountains climbing, sketching, and researching the newest UI Design trends and technologies.
 
@@ -17,8 +17,8 @@ My interests include mountains climbing, sketching, and researching the newest U
 
 ## Some More About Me
 
-- 🔭  My Skills : REACT, REDUX/Mobx, JavaScript, Node.js (Basics)
-                   HTML, CSS, SCSS/SASS, Bootstrap/MUI/Tailwind,
+- 🔭  My Skills : React, Redux/Mobx, JavaScript/ES6, Node.js (Basics)
+                   HTML, CSS, SCSS/SASS, Bootstrap/MUI/Tailwind CSS,
                    Microfrontend, Unit Testing, Figma/Invision etc.
 - 👯 I’m looking to collaborate with amazing Developers.
 - 🤔 I’m Ready for Learning, Sharing from/to no matters wheather Juniors or Seniors and taking challenging tasks.
