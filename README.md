@@ -1,8 +1,12 @@
 # Hey There, I'm < Nikunj Gurjar >
 
-A Frontend Developer⚡, based in the glorious city Indore, India. Since 2016 I’m producing creative work with team and individuals locally and remotely. Starting with Graphics Design, I transitioned to Web Designs, and now Web/Mobile App UI development.
- 
-My Skillset Includes React.js, Node.js, HTML, CSS, JavaScript, JQuery, SCSS/SASS, Bootstrap, Ionic UI and I love working on JavaScript. Building amazing project using these technologies. Always Trying to master in these tools and Technologies. My hobbies are sketching, writing, exploring new UI Design trends and technologies. 
+A Frontend Developer⚡, based in the glorious city Indore, India. Since 2018 I’m producing creative work with team and individuals locally and remotely. Starting with Graphics Design, I transitioned to Web Design, and now Web/Mobile App UI development.
+
+fulfilled 5+ years of total IT experience, of which 4 years were spent developing high-performing presentation layers, reusable components, and performance optimization as a React JS UI developer.
+
+React, Redux, Mobx, SASS, HTML, CSS, TypeScript, JavaScript/ES6, JQuery, Bootstrap, MUI, and Ionic UI are among the skills I possess, and I enjoy working with JavaScript. utilizing these technology to build incredible projects. always aiming to become an expert with these tools and technology. 
+
+My interests include mountains climbing, sketching, and researching the newest UI Design trends and technologies.
 
 <br />
 <br />
@@ -13,8 +17,9 @@ My Skillset Includes React.js, Node.js, HTML, CSS, JavaScript, JQuery, SCSS/SASS
 
 ## Some More About Me
 
-- 🔭  My Skills : JavaScript, React.js, Ionic UI, Node.js (Basics)
-                   HTML, CSS, SCSS/SASS, Bootstrap etc.
+- 🔭  My Skills : REACT, REDUX/Mobx, JavaScript, Node.js (Basics)
+                   HTML, CSS, SCSS/SASS, Bootstrap/MUI/Tailwind,
+                   Microfrontend, Unit Testing, Figma/Invision etc.
 - 👯 I’m looking to collaborate with amazing Developers.
 - 🤔 I’m Ready for Learning, Sharing from/to no matters wheather Juniors or Seniors and taking challenging tasks.
 - 💬 I love teaching to people.
