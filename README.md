@@ -17,9 +17,10 @@ My interests include mountains climbing, sketching, and researching the newest U
 
 ## Some More About Me
 
-- 🔭  My Skills : React, Redux/Mobx, JavaScript/ES6, Node.js (Basics)
-                   HTML, SASS/CSS, Bootstrap/MUI/Tailwind CSS,
-                   Microfrontend, Unit Testing, Figma/Invision etc.
+- 🔭  My Skills : React, Redux/Mobx, JavaScript/ES6, TypeScript,
+                   Node.js (Basics), HTML, SASS/CSS,
+                   Bootstrap/MUI/Tailwind CSS, Microfrontend,
+                   Unit Testing, Figma/Invision etc.
 - 👯 I’m looking to collaborate with amazing Developers.
 - 🤔 I’m Ready for Learning, Sharing from/to no matters wheather Juniors or Seniors and taking challenging tasks.
 - 💬 I love teaching to people.
